@@ -30,7 +30,7 @@ Before submitting **bug reports**, **documentation improvements requests**, **fe
 - **Main**: Accepts merges from Features/Issues and Hotfixes
 - **Features/Issues**: Always branch off from `main`
 
-  - Prefix: `${action}/*`. E.g.: `update/prettier-configs`
+  - Prefix: `${action}/*`. E.g.: `add/git-pre-commit-hooks`, `fix/eslint-checks`
 
   > Actions available: `add`, `update`, `fix`, and `remove`
 
